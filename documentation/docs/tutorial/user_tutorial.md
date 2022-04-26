@@ -103,7 +103,7 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ### The Somalia Dashboard
 
-👨‍🏫 Click on the **Instance** labeled Somalia, and the dashboard will load and open. 
+👩‍💼 Click on the **Instance** labeled Somalia, and the dashboard will load and open. 
 
 ![Dashboard](../assets/screenshots/dashboard.png)
 
@@ -119,17 +119,17 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 🧑‍🏫 Below the **Context Analysis Button** is the **Programme Interventions Panel**. It contains a set of buttons that allow access to key risk response indicators. 
 
-👨‍🏫 Click on the arrow next to the house symbol. The tabs will extend and be labeled to see what each symbol means, Health, Child Protection, Nutrition, Wash, and Education.
+👩‍💼 Click on the arrow next to the house symbol. The tabs will extend and be labeled to see what each symbol means, Health, Child Protection, Nutrition, Wash, and Education.
 
 🧑‍🏫 For example, the second button-down with a picture of the caduceus/medical symbol indicates **Health**. Click on the **Health** button, and a report will open on the status of the scenario for each indicator.
  
-👨‍🏫 Click on each button to see the information for each factor. 
+👩‍💼 Click on each button to see the information for each factor. 
 
 ![Program Interventions Panel](../assets/screenshots/program-interventions-panel.png)
 
 ### The Indicator Panel
 
-👨‍🏫 Click back on the **Context Analysis Button** and observe the **Indicator Panel**. 
+👩‍💼 Click back on the **Context Analysis Button** and observe the **Indicator Panel**. 
 
 🧑‍🏫 This panel contains a list of **Indicators** (special layers) that relate to the main factors of interest on the platform, like health and nutrition.
 
@@ -139,17 +139,17 @@ The **Indicator** panel is expanded by default. Click on the tab labeled with a 
 
 ![Indicator Panel](../assets/screenshots/indicator-pannel.png)
 
-👨‍🏫 Click on the triangle next to the label **People In Need**. 
+👩‍💼 Click on the triangle next to the label **People In Need**. 
 
 🧑‍🏫 This will expand the section showing all the data available on different groups of people that require assistance from the government or other organizations.
 
-👨‍🏫 check the box next to **PIN- Child Protection**.
+👩‍💼 check the box next to **PIN- Child Protection**.
 
 🧑‍🏫 A tick will appear in the check box, and a layer will appear on the map. The map shows the degree of child protection priority in darkening shades of blue. 
 
 You can filter the scenarios by checking or unchecking the boxes next to each scenario (e.g., best-case or worst-case) for the **indicator**. 
 
-👨‍🏫 Click and unclick the different case options (see how the map changes). Ensure all of the **PIN- Child Protection** sub-Layers are ticked to continue with the tutorial.
+👩‍💼 Click and unclick the different case options (see how the map changes). Ensure all of the **PIN- Child Protection** sub-Layers are ticked to continue with the tutorial.
 
 🧑‍🏫 When an indicator is selected, an **Information panel** will open on the right-hand side of the screen. We will go through the **Information Panel** in more detail shortly. 
 
@@ -193,7 +193,8 @@ We will look at the **Information Panel** with different data further on in this
 🧑‍🏫 You can download any data of interest by clicking on the round symbol with the download arrow (**download button**) next to each indicator in the **Indicator Panel** for the selected indicator.
 You can get all the data for the Instance if you click **the download button** at the top of the **Information Panel**. This will give you a spreadsheet of the information that you can use outside of the platform. 
 
-👨‍🏫 Click on the **download button** next to **People In Need** and observe the downloaded spreadsheet on your computer. Note the data is color-coded in the spreadsheet as per the platform and the data is broken down into tabs for each geography level. Thus, you can work with the data offline.
+👩‍💼 
+ Click on the **download button** next to **People In Need** and observe the downloaded spreadsheet on your computer. Note the data is color-coded in the spreadsheet as per the platform and the data is broken down into tabs for each geography level. Thus, you can work with the data offline.
 
 ![Download Data](../assets/screenshots/download-data.png)
 ![Spreadsheet](../assets/screenshots/Spreadsheet.png)XXX Amy update XXX
@@ -232,7 +233,7 @@ The default is an OpenStreetMap. There is also a GEBCO grid base map which is a 
 
 🧑‍🏫 For example, it may be useful to have a topographic map to visualize geographic features like mountains and rivers that could impede people's movement into areas if you review people's internal displacement. 
 
-👨‍🏫 
+👩‍💼  
 * Turn on the Open **Topo Map**.
 * Navigate back to the **Indicator Panel**.
 * Uncheck the child protection layer. 
@@ -298,7 +299,6 @@ A great use case is the internal displacement of people. Turn off both child pro
 
 You can see where indicators are selected because the tab heading will be in bold. Click the **play button** on the time bar. You will see the changes in what region people are leaving over time. 
 
-
 > Note: It may take some time to initially load the timelapse. 
 
 Turn off the **play button** to stop the timelapse. You can click and drag on the grab handle in the timelapse bar to manually move it. 
@@ -338,7 +338,7 @@ This will open the detail drill-down panel, where you can see a line graph showi
 ## Bringing it all together
 
 🧑‍🏫 With your knowledge of the RIR dashboard, let's try an analysis where we look at what districts people are departing from and what districts they are arriving to. 
-
+👩‍💼 
 * Set the base map to OpenStreetMap
 * Add the context layer **Refugees and IDPs**
 * Activate both the arrivals and departures indicator layers
