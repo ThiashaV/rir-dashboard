@@ -77,39 +77,35 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ### Documentation
 
-🧑‍🏫 On the top right-hand side of the landing screen, there is a drop-down menu for **Links** and a link to a sign-in page. The **Links** drop-down menu is a quick way to access the documentation for using the platform and the different data and resources associated with the platform (which are not covered in this tutorial).
+🧑‍🏫 On the top right-hand side of the landing screen, there is a drop-down menu for **Links** and a link to a sign-in page. The **Links** drop-down menu is a quick way to access the documentation for the platform. 
 
 ![Links Menu](../assets/screenshots/links.png)
 
 > 📒 **Instructor note:** Briefly show the documentation and how to navigate it.
 
-![Documentation](../assets/screenshots/documentation.png)
+![Documentation](../assets/screenshots/Documentation.png)
 
 ### Instances
 
-🧑‍🏫 On the landing page, you will see several **instances**. An **Instance** is a configured dashboard for a specific region or country. We will use the **Somalia instance** for the examples in this tutorial.
+🧑‍🏫 On the landing page, you will see several **Instances**. An **Instance** is a configured dashboard for a specific region or country. We will use the **Somalia instance** for the examples in this tutorial.
 
 ![Instances](../assets/screenshots/instances.png)
 
 ### Signing In
 
-🧑‍🏫 Return to the RIR platform, click on the **Sign In** link, and a page will open where you can add in your user name and password. Your credentials are created for you by an administrator and may not be necessary. As a web user, you will still be able to interact with the platform without a login.
+🧑‍🏫 Return to the RIR platform, click on the **Sign In** link, and a page will open where you can add in your user name and password. Your credentials are created for you by an administrator.
 
 ![Sign In](../assets/screenshots/log-in.png)
 
-🧑‍🏫 **Sign In** is only important to access specific workflows. Some data and workflows may only be available to named users who are signed into the platform. Once you are signed in to the platform, your name will appear on the top right, and depending on your admin privileges, there will be a drop-down with the option to log out and reach the admin page if you are an administrator. 
+🧑‍🏫 **Sign In** is important to access all the functionality of the platform.Your name will appear on the top right once signed in. Depending on your admin privileges, there will be a drop-down menue with the option to log out. 
 
 ![Signed In](../assets/screenshots/signed-in.png)
 
 ### The Somalia Dashboard
 
-👨‍🏫 Click on the **instance** labeled Somalia, and the dashboard will load and open. 
+👨‍🏫 Click on the **Instance** labeled Somalia, and the dashboard will load and open. 
 
 ![Dashboard](../assets/screenshots/dashboard.png)
-
-🧑‍🏫 You will see I am still signed in, and there are three options available to me on the bottom left. If I sign out, these buttons will disappear because web users do not have access to some functionality. For this tour, a web user status will work.
-
-![Web User](../assets/screenshots/web-user.png)
 
 ## Dashboard Tour
 
@@ -117,9 +113,9 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ### The Context Analysis Button
 
-🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**. This button gives access to the **Indicator Panel** it is selected, and the is panel open by default.
+🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**. This button gives access to the **Indicator Panel**. 
 
-![Context Analysis Button](../assets/screenshots/context-analysis-button.png)
+![Context Analysis Button](../assets/screenshots/context-analysis-button1.png)
 
 🧑‍🏫 Below the **Context Analysis Button** is the **Programme Interventions Panel**. It contains a set of buttons that allow access to key risk response indicators. 
 
