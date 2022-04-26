@@ -89,7 +89,7 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 🧑‍🏫 On the landing page, you will see several **Instances**. An **Instance** is a configured dashboard for a specific region or country. We will use the **Somalia instance** for the examples in this tutorial.
 
-![Instances](../assets/screenshots/instances.png)
+![Instances](../assets/screenshots/instances1.png)
 
 ### Signing In
 
@@ -113,7 +113,8 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ### The Context Analysis Button
 
-🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**. This button gives access to the **Indicator Panel**. 
+🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**.![C-A-B](../assets/screenshots/c-a-b.png) 
+This button gives access to the **Indicator Panel**. 
 
 ![Context Analysis Button](../assets/screenshots/context-analysis-button1.png)
 
@@ -196,8 +197,8 @@ You can get all the data for the Instance if you click **the download button** a
 👩‍💼 
  Click on the **download button** next to **People In Need** and observe the downloaded spreadsheet on your computer. Note the data is color-coded in the spreadsheet as per the platform and the data is broken down into tabs for each geography level. Thus, you can work with the data offline.
 
-![Download Data](../assets/screenshots/download-data.png)
-![Spreadsheet](../assets/screenshots/Spreadsheet.png)XXX Amy update XXX
+![Download Data](../assets/screenshots/download-data2.png)
+![Spreadsheet](../assets/screenshots/spreadsheet3.png)XXX Amy update XXX
 
 ## Layers
 
@@ -205,9 +206,7 @@ You can get all the data for the Instance if you click **the download button** a
 
 ### Context Layers
 
-🧑‍🏫 The **context layers** can be accessed by clicking on the button with 3 overlapping squares on it.
-
-XXX add a screenshot with arrow XXX
+🧑‍🏫 The **context layers** can be accessed by clicking on the button with 3 overlapping squares on it.![layers button](../assets/screenshots/layers-button.png) 
 
 There will be a list of layers to choose from. Context layers are shown on the map to provide a sense of the conditions in the region. They can cover any topic. For example, security, food security, infrastructure, etc. Context layers do not have indicator data attached. They are a visual aid on the dashboard map.
 
@@ -225,7 +224,7 @@ Click on a point on the map like a port. You will be given information about the
 
 🧑‍🏫 You can change the base map behind the data if you click on the world icon in the panel. 
 
-XXX screen shot hereXXX
+![Basemap-button](../assets/screenshots/basemap-button.png) 
 
 The default is an OpenStreetMap. There is also a GEBCO grid base map which is a global terrain model for ocean and land, a Mapbox satellite base map, and an Open Topo base map which is rendered from OSM and SRTM data.
 
