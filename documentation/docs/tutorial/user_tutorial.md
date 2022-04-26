@@ -15,7 +15,7 @@ This session will tour the RIR platform functionality using simple examples and 
 ### Important Links:
 
 * [RIR Platform](https://staging.rir.kartoza.com/ "RIR Platform")
-* [RIR Full Documentation](https://kartoza.github.io/rir-dashboard/pages/introduction.html "RIR Full Documentation")
+* [RIR Full Documentation](https://kartoza.github.io/rir-dashboard/ "RIR Full Documentation")
 
 ### Session Outline: 
 
