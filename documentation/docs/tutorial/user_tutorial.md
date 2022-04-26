@@ -121,7 +121,7 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 👨‍🏫 Click on the arrow next to the house symbol, the tabs will extend and be labeled so you can see what each symbol means, Health, Child Protection, Nutrition, Wash, and Education.
 
-🧑‍🏫 For example, the second button-down with a picture of the caduceus/ medical symbol indicates **Health**. Once opened the panel shows a report on the status of or degree to which the intervention for that factor is helping and other information like costing.
+🧑‍🏫 For example, the second button-down with a picture of the caduceus/medical symbol indicates **Health**. Click on the **Health** button and a report will open on on the status of the scenarions for each indicator.
  
 👨‍🏫 Click on each button to see the information for each factor. 
 
