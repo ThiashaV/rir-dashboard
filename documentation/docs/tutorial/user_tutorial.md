@@ -25,7 +25,7 @@ We will show you how to navigate the platform and summarise what each tool and b
 2. **Documentation** and **Links**
 3. **Instances**
 4. **Sign in**
-5. The Dashboard tour:
+5. The Dashboard tour (See also [Indicators](https://kartoza.github.io/rir-dashboard/pages/using/indicators.html#indicators)):
      * **The Context Analysis Button**
      * **Programme Interventions Panel**
      * **The Indicator Panel** 
@@ -33,36 +33,18 @@ We will show you how to navigate the platform and summarise what each tool and b
      * **The Traffic Light**
      * **The Information Panel**
      * **Downloading Data button**
-
-    ![Dashboard Flow Diagram](../assets/screenshots/dashboard-tour.png)
-
-    (See also [Indicators](https://kartoza.github.io/rir-dashboard/pages/using/indicators.html#indicators)).
-
-6. Layers
+6. Layers (see also [Layers](https://kartoza.github.io/rir-dashboard/pages/using/layers.html#layers)):
      * The **Context Layers Icon** 
      * The **Basemap Icon**
      * **Geography Level Panel**
-
-    ![Layers Flow Diagram](../assets/screenshots/layers.png)
-
-    (see also [Layers](https://kartoza.github.io/rir-dashboard/pages/using/layers.html#layers)). We will look at these layer related topics:
-  
-
-7. Map Interactions
+7. Map Interactions (see also [Map Interactions](https://kartoza.github.io/rir-dashboard/pages/using/map_interactions.html)):
      * **Panning** moving around the map 
      * **Zooming** in and out
      * The **Information Display Window** 
-     * **The Map Slider** (eg. to compare people in need of 'Child Protection' vs. 'Child Protection Program Coverage') 
-     * **Timelapse Bar**(eg. IDP arrival over time) 
-
-    ![Map Interactions Flow Diagram](../assets/screenshots/map-interactions.png)
-
-    (see also [Map Interactions](https://kartoza.github.io/rir-dashboard/pages/using/map_interactions.html))
-
-
+     * **The Map Slider** 
+     * **Timelapse Bar**
 8. More on the **Information Panel**
      * **Graphical Representation**
- 
 9. Questions 
 
 You can find more self-study content in the full system documentation here: [Platform Tour](https://kartoza.github.io/rir-dashboard/pages/using/platform_tour.html)).
@@ -109,7 +91,8 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ## Dashboard Tour
 
-🧑‍🏫 Let's tour the dashboard together. We will start from left to right across the screen, showing what each button and panel does with a few simple examples. 
+🧑‍🏫 Let's tour the dashboard together. We will start from left to right across the screen, showing what each button and panel does with a few simple examples. See the summary of the dashboard tools below. 
+![Dashboard Flow Diagram](../assets/screenshots/dashboard-tour.png)
 
 ### The Context Analysis Button
 
@@ -198,11 +181,12 @@ You can get all the data for the Instance if you click **the download button** a
  Click on the **download button** next to **People In Need** and observe the downloaded spreadsheet on your computer. Note the data is color-coded in the spreadsheet as per the platform and the data is broken down into tabs for each geography level. Thus, you can work with the data offline.
 
 ![Download Data](../assets/screenshots/download-data2.png)
-![Spreadsheet](../assets/screenshots/spreadsheet3.png)XXX Amy update XXX
+![Spreadsheet](../assets/screenshots/spreadsheet3.png)
 
 ## Layers
 
-🧑‍🏫 Let's explore context layers. Layers that give context to the indicators on the map. 
+🧑‍🏫 Let's explore context layers. Layers that give context to the indicators on the map and include **Context layers**, **Base Maps** and **Geography levels**
+![Layers Flow Diagram](../assets/screenshots/layers.png)
 
 ### Context Layers
 
@@ -260,7 +244,10 @@ Geography levels express the hierarchy between administrative boundaries. For ex
 
 ## Map Interactions
 
-🧑‍🏫 Let's now get into interacting with the Map. Check on the **PIN- Child Protection** and check off the **IDP Departure layer**
+🧑‍🏫 Let's now get into interacting with the Map. Below is a summary of all the map interactions available.
+![Map Interactions Flow Diagram](../assets/screenshots/map-interactions.png)
+
+Check on the **PIN- Child Protection** and check off the **IDP Departure layer**
 
 ### Zooming
 
