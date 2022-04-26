@@ -38,9 +38,9 @@ We will show you how to navigate the platform and summarise what each tool and b
      * The **Basemap Icon**
      * **Geography Level Panel**
 7. Map Interactions (see also [Map Interactions](https://kartoza.github.io/rir-dashboard/pages/using/map_interactions.html)):
-     * **Panning** moving around the map 
-     * **Zooming** in and out
-     * The **Information Display Window** 
+     * **Panning**
+     * **Zooming**
+     * **Information Display Popup** 
      * **The Map Slider** 
      * **Timelapse Bar**
 8. More on the **Information Panel**
