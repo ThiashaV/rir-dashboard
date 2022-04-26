@@ -96,7 +96,10 @@ You can access the platform here: https://staging.rir.kartoza.com:
 
 ### The Context Analysis Button
 
-🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**.![C-A-B](../assets/screenshots/c-a-b.png) 
+🧑‍🏫 At the top left of the screen, you will see the **Context Analysis Button**.
+
+![C-A-B](../assets/screenshots/c-a-b.png) 
+
 This button gives access to the **Indicator Panel**. 
 
 ![Context Analysis Button](../assets/screenshots/context-analysis-button1.png)
@@ -190,7 +193,9 @@ You can get all the data for the Instance if you click **the download button** a
 
 ### Context Layers
 
-🧑‍🏫 The **context layers** can be accessed by clicking on the button with 3 overlapping squares on it.![layers button](../assets/screenshots/layers-button.png) 
+🧑‍🏫 The **context layers** can be accessed by clicking on the button with 3 overlapping squares on it.
+
+![layers button](../assets/screenshots/layers-button.png) 
 
 There will be a list of layers to choose from. Context layers are shown on the map to provide a sense of the conditions in the region. They can cover any topic. For example, security, food security, infrastructure, etc. Context layers do not have indicator data attached. They are a visual aid on the dashboard map.
 
@@ -199,6 +204,8 @@ Let's select 'Access'. We can now see all the roads, airports, and other access 
 Click on the triangle next to Access to expand the options/group. You can choose exactly what features you want to see. Turn off everything except Roads and Ports by checking and unchecking the checkboxes. 
 
 You can access the **legend** of the context layers by expanding the triangle next to the Access features (e.g., Ports).
+
+![Legend](../assets/screenshots/legend.png)
 
 Click on a point on the map like a port. You will be given information about the point in an **Information Popup**. 
 
