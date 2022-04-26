@@ -188,7 +188,7 @@ You can get all the data for the Instance if you click **the download button** a
 
 ## Layers
 
-🧑‍🏫 Let's explore context layers. Layers that give context to the indicators on the map and include **Context layers**, **Base Maps** and **Geography levels**
+🧑‍🏫 Let's explore **Context layers**. Layers that give context to the indicators on the map and include **Context layers**, **Base Maps** and **Geography levels**
 ![Layers Flow Diagram](../assets/screenshots/layers.png)
 
 ### Context Layers
@@ -197,13 +197,13 @@ You can get all the data for the Instance if you click **the download button** a
 
 ![layers button](../assets/screenshots/layers-button.png) 
 
-There will be a list of layers to choose from. Context layers are shown on the map to provide a sense of the conditions in the region. They can cover any topic. For example, security, food security, infrastructure, etc. Context layers do not have indicator data attached. They are a visual aid on the dashboard map.
+There will be a list of layers to choose from. **Context layers** are shown on the map to provide a sense of the conditions in the region. They can cover any topic. For example, security, food security, infrastructure, etc. **Context layers** do not have indicator data attached. They are a visual aid on the dashboard map.
 
 Let's select 'Access'. We can now see all the roads, airports, and other access indicators/features. 
 
-Click on the triangle next to Access to expand the options/group. You can choose exactly what features you want to see. Turn off everything except Roads and Ports by checking and unchecking the checkboxes. 
+Click on the triangle next to **Access** to expand the options/group. You can choose exactly what features you want to see. Turn off everything except **Roads** and **Ports** by checking and unchecking the checkboxes. 
 
-You can access the **legend** of the context layers by expanding the triangle next to the Access features (e.g., Ports).
+You can access the **legend** of the **Context layers** by expanding the triangle next to the **Access** features (e.g., Ports).
 
 ![Legend](../assets/screenshots/legend.png)
 
@@ -232,7 +232,7 @@ The default is an OpenStreetMap. There is also a GEBCO grid base map which is a 
 
 🧑‍🏫 You can now see some of the topographic features underneath the departures layer. You may observe that several areas with high departure rates are in the northern desert area. Thus, drought may be affecting the people in these cases.
 
-Let's take it a step further. Go to the context layers, expand the **Natural Hazard** options, and check on the **Drought Priority Areas**. You can see that many of the drought priority areas are in the northern desert area. 
+Let's take it a step further. Go to the **Context layers**, expand the **Natural Hazard** options, and check on the **Drought Priority Areas**. You can see that many of the drought priority areas are in the northern desert area. 
 
 Ensure to uncheck the **Drought Priority Areas** and the **Access layers** to continue with this tutorial. 
 
