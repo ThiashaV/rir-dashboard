@@ -232,11 +232,12 @@ The default is an OpenStreetMap. There is also a GEBCO grid base map which is a 
 
 🧑‍🏫 For example, it may be useful to have a topographic map to visualize geographic features like mountains and rivers that could impede people's movement into areas if you review people's internal displacement. 
 
-👨‍🏫 * Turn on the Open **Topo Map**.
-   * Navigate back to the **Indicator Panel**.
-   * Uncheck the child protection layer. 
-   * Expand the group for **Internal Displacement**
-   * Select the **IDP Departure Indicator**
+👨‍🏫 
+* Turn on the Open **Topo Map**.
+* Navigate back to the **Indicator Panel**.
+* Uncheck the child protection layer. 
+* Expand the group for **Internal Displacement**
+* Select the **IDP Departure Indicator**
 
 🧑‍🏫 You can now see some of the topographic features underneath the departures layer. You may observe that several areas with high departure rates are in the northern desert area. Thus, drought may be affecting the people in these cases.
 
@@ -345,8 +346,8 @@ This will open the detail drill-down panel, where you can see a line graph showi
 * slide the slider to see if neighboring districts accept departing people, thus having higher arrivals than previously observed (see the linear graphs to compare).
 
 Answer the following questions:
-* what regions have the highest number of departures?
+* What regions have the highest number of departures?
 * What regions have the highest number of arrivals? 
-* what region has had the most changes in departures over time? 
+* What region has had the most changes in departures over time? 
 
 ![Bringing it all Together](../assets/screencasts/bringing-it-all-together.gif)
